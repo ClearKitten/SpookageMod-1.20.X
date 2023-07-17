@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "spookage",
+	"version": "${version}",
+	"name": "Spookage Mod",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Karl"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/spookage/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.karl.spookage.SpookageMod"
+		],
+		"client": [
+			"net.karl.spookage.SpookageModClient"
+		],
+		"fabric-datagen": [
+			"net.karl.spookage.SpookageModDataGenerator"
+		]
+	},
+	"mixins": [
+		"spookage.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
