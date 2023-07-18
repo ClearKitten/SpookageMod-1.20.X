@@ -2,6 +2,9 @@ package net.karl.spookage;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.karl.spookage.block.ModBlocks;
+import net.karl.spookage.item.ModItemGroups;
+import net.karl.spookage.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -11,6 +14,9 @@ public class SpookageMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Hello Fabric world!");
+		ModItemGroups.registerItemGroups();
+
+		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

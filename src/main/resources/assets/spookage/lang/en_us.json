@@ -1,0 +1,13 @@
+{
+  "item.spookage.spook_ingot": "Spook Ingot",
+  "item.spookage.raw_spook": "Raw Spook",
+
+  "block.spookage.spook_block": "Block of Spook",
+  "block.spookage.raw_spook_block": "Block of Raw Spook",
+  "block.spookage.spook_ore": "Spook Ore",
+  "block.spookage.spook_stone": "Spook Stone",
+  "block.spookage.spook_cobblestone": "Spook Cobblestone",
+  "block.spookage.charred_bush": "Charred Bush",
+
+  "itemgroup.spookage": "Spookage Group"
+}
