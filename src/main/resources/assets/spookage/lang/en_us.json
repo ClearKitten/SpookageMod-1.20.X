@@ -1,6 +1,18 @@
 {
   "item.spookage.spook_ingot": "Spook Ingot",
   "item.spookage.raw_spook": "Raw Spook",
+  "item.spookage.charred_stick": "Charred Stick",
+
+  "item.spookage.spook_pickaxe": "Spook Pickaxe",
+  "item.spookage.spook_axe": "Spook Axe",
+  "item.spookage.spook_shovel": "Spook Shovel",
+  "item.spookage.spook_hoe": "Spook Hoe",
+  "item.spookage.spook_sword": "Spook Sword",
+
+  "item.spookage.spook_helmet": "Spook Helmet",
+  "item.spookage.spook_chestplate": "Spook Chestplate",
+  "item.spookage.spook_leggings": "Spook Leggings",
+  "item.spookage.spook_boots": "Spook Boots",
 
   "block.spookage.spook_block": "Block of Spook",
   "block.spookage.raw_spook_block": "Block of Raw Spook",
@@ -8,6 +20,15 @@
   "block.spookage.spook_stone": "Spook Stone",
   "block.spookage.spook_cobblestone": "Spook Cobblestone",
   "block.spookage.charred_bush": "Charred Bush",
+  "block.spookage.spook_log": "Spook Log",
+  "block.spookage.spook_wood": "Spook Wood",
+  "block.spookage.stripped_spook_log": "Stripped Spook Log",
+  "block.spookage.stripped_spook_wood": "Stripped Spook Wood",
+  "block.spookage.spook_planks": "Spook Planks",
+  "block.spookage.spook_door": "Spook Door",
+  "block.spookage.spook_trapdoor": "Spook Trapdoor",
+  "block.spookage.spook_leaves": "Spook Leaves",
+  "block.spookage.spook_sapling": "Spook Sapling",
 
   "itemgroup.spookage": "Spookage Group"
 }

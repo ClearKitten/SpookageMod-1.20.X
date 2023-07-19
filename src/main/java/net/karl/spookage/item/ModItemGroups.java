@@ -20,12 +20,33 @@ public class ModItemGroups {
                         entries.add(ModItems.SPOOK_INGOT);
                         entries.add(ModItems.RAW_SPOOK);
 
+                        entries.add(ModItems.SPOOK_PICKAXE);
+                        entries.add(ModItems.SPOOK_AXE);
+                        entries.add(ModItems.SPOOK_HOE);
+                        entries.add(ModItems.SPOOK_SWORD);
+                        entries.add(ModItems.SPOOK_SHOVEL);
+
+                        entries.add(ModItems.SPOOK_HELMET);
+                        entries.add(ModItems.SPOOK_CHESTPLATE);
+                        entries.add(ModItems.SPOOK_LEGGINGS);
+                        entries.add(ModItems.SPOOK_BOOTS);
+
                         entries.add(ModBlocks.SPOOK_BLOCK);
                         entries.add(ModBlocks.RAW_SPOOK_BLOCK);
                         entries.add(ModBlocks.CHARRED_BUSH);
                         entries.add(ModBlocks.SPOOK_ORE);
                         entries.add(ModBlocks.SPOOK_COBBLESTONE);
                         entries.add(ModBlocks.SPOOK_STONE);
+
+                        entries.add(ModBlocks.SPOOK_LOG);
+                        entries.add(ModBlocks.SPOOK_WOOD);
+                        entries.add(ModBlocks.STRIPPED_SPOOK_LOG);
+                        entries.add(ModBlocks.STRIPPED_SPOOK_WOOD);
+                        entries.add(ModBlocks.SPOOK_PLANKS);
+                        entries.add(ModBlocks.SPOOK_SAPLING);
+                        entries.add(ModBlocks.SPOOK_DOOR);
+                        entries.add(ModBlocks.SPOOK_TRAPDOOR);
+                        entries.add(ModBlocks.SPOOK_LEAVES);
 
                     }).build());
 

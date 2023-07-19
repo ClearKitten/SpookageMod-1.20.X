@@ -1,6 +1,12 @@
 {
   "replace": false,
   "values": [
-
+      "spookage:spook_log",
+      "spookage:spook_wood",
+      "spookage:stripped_spook_wood",
+      "spookage:stripped_spook_log",
+      "spookage:spook_planks",
+      "spookage:spook_door",
+      "spookage:spook_trapdoor"
   ]
 }

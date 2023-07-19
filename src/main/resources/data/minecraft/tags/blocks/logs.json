@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "spookage:spook_log",
+    "spookage:stripped_spook_log",
+    "spookage:spook_wood",
+    "spookage:stripped_spook_wood"
+  ]
+}
